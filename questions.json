@@ -1,0 +1,339 @@
+[
+  
+  {
+    "questionNo": "Q1.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      {
+        "text": "Nife"
+      },
+      {
+        "text": "Knife"
+      },
+      {
+        "text": "Niffe"
+      },
+      {
+        "text": "Kniffe"
+      }
+    ],
+    "secondImg":"./images/5.png",
+    "correct": 1,
+    "explanation": "'Knife' is the correct spelling. The 'K' is silent, but it's still part of the correct spelling. This is an example of a word where 'KN' at the beginning has a silent 'K'."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Fill in the silent letter to complete the word: _NEE",
+    "Q_sound": "./sound/knee.mp3",
+    "options": [
+      {
+        "text": "K"
+      },
+      {
+        "text": "P"
+      },
+      {
+        "text": "E"
+      },
+      {
+        "text": "S"
+      }
+    ],
+    "correct": 0,
+    "secondImg":"./images/6.png",
+    "explanation": "In the word 'knee,' the letter 'K' is silent. We do not pronounce the 'K' when we say the word."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Fill in the silent letter to complete the word: CAK_",
+    "Q_sound": "./sound/cake.mp3",
+    "options": [
+      {
+        "text": "K"
+      },
+      {
+        "text": "S"
+      },
+      {
+        "text": "E"
+      },
+      {
+        "text": "T"
+      }
+    ],
+    "secondImg":"./images/7.png",
+    "correct": 2,
+    "explanation": "In 'Cake,' the letter 'E' at the end is silent. It helps make the 'A' sound long, but we don’t pronounce the 'E.'"
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Fill in the silent letter to complete the word: _NIGHT",
+    "Q_sound": "./sound/knight.mp3",
+    "options": [
+      {
+        "text": "E"
+      },
+      {
+        "text": "C"
+      },
+      {
+        "text": "F"
+      },
+      {
+        "text": "K"
+      }
+    ],
+    "correct": 3,
+    "secondImg":"./images/8.png",
+    "explanation": "In the word 'knight,' the letter 'K' is silent, just like in 'knee.' The 'K' is not pronounced."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Fill in the correct letter to complete a word: FLO_ER",
+    "Q_sound": "./sound/flower.mp3",
+    "options": [
+      {
+        "text": "W"
+      },
+      {
+        "text": "E"
+      },
+      {
+        "text": "O"
+      },
+      {
+        "text": "K"
+      }
+    ],
+    "correct": 0,
+    "secondImg":"./images/9.png",
+    "explanation": "The word is 'FLOWER.' The missing letter is 'W.' In the word 'flower,' the letter 'W' completes the word, and it's pronounced clearly."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Fill in the correct letter to complete a word: L_UGH",
+    "Q_sound": "./sound/laugh.mp3",
+    "options": [
+      {
+        "text": "O"
+      },
+      {
+        "text": "A"
+      },
+      {
+        "text": "F"
+      },
+      {
+        "text": "E"
+      }
+    ],
+    "correct": 1,
+    "secondImg":"./images/10.png",
+    "explanation": "The word is 'LAUGH.' The missing letter is 'A.' In the word 'laugh,' the 'A' is part of the correct spelling, even though the 'gh' makes an 'f' sound at the end."
+  },
+
+    {
+      "questionNo": "Q7.",
+      "question": "Listen to the word and choose the correct spelling?",
+      "Q_sound": "./sound/kite.mp3",
+      "options": [
+        {
+          "text": "Kit"
+        },
+        {
+          "text": "Kite"
+        },
+        {
+          "text": "Kate"
+        },
+        {
+          "text": "Kait"
+        }
+      ],
+      "correct": 1,
+      "secondImg":"./images/11.png",
+      "explanation": "The silent 'E' at the end of 'kite' makes the 'I' say its name, which is the long 'I' sound, just like in 'bike.'"
+    },
+    {
+      "questionNo": "Q8.",
+      "question": "Choose the word where 'K' is NOT silent:",
+      "options": [
+        {
+          "text": "Knock"
+        },
+        {
+          "text": "Knit"
+        },
+        {
+          "text": "Knight"
+        },
+        {
+          "text": "Kettle"
+        }
+      ],
+      "correct": 3,
+      "explanation": "In 'kettle,' we hear the 'K' sound at the beginning. In all the other options (knock, knit, knight), the 'K' is silent because it's followed by 'N.'"
+    },
+    {
+      "questionNo": "Q9.",
+      "question": "Fill in the blank with the correct spelling: The cat likes to ___ on the sofa.",
+      "options": [
+        {
+          "text": "Nap"
+        },
+        {
+          "text": "Nape"
+        },
+        {
+          "text": "Knap"
+        },
+        {
+          "text": "Knape"
+        }
+      ],
+      "correct": 0,
+      "secondImg":"./images/13.png",
+      "explanation": "'Nap' is the correct spelling. It doesn't need a silent 'E' at the end because we want the short 'A' sound. Adding an 'E' would change the pronunciation to 'nape,' which is a different word."
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "Which word has both the letters 'K' and 'E'?",
+      "options": [
+        {
+          "text": "Kick"
+        },
+        {
+          "text": "Knight"
+        },
+        {
+          "text": "Knife"
+        },
+        {
+          "text": "Know"
+        }
+      ],
+      "correct": 2,
+      "explanation": "In the word 'Knife,' 'K' is at the start and the letter 'E' is at the end. Also, the letter 'K' is silent in the word 'Knife.'"
+    },
+    {
+      "questionNo": "Q11.",
+      "question": "Which word needs a silent 'E' at the end?",
+      "options": [
+        {
+          "text": "Sid"
+        },
+        {
+          "text": "Kid"
+        },
+        {
+          "text": "Lid"
+        },
+        {
+          "text": "Hit"
+        }
+      ],
+      "correct": 0,
+      "explanation": "'Sid' needs a silent 'E' at the end to become 'side.' This changes the pronunciation from a short 'I' sound to a long 'I' sound. The other words (kid, lid, hit) are correct as they are with the short 'I' sound."
+    },
+    {
+      "questionNo": "Q12.",
+      "question": "Fill in the blank: The silent 'E' in 'hike' makes the 'I' sound ___.",
+      "options": [
+        {
+          "text": "Short"
+        },
+        {
+          "text": "Long"
+        },
+        {
+          "text": "Silent"
+        },
+        {
+          "text": "Loud"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The silent 'E' at the end of 'hike' makes the 'I' sound long, meaning it says its name. Without the 'E,' it would be 'hik' with a short 'I' sound."
+    },
+    {
+      "questionNo": "Q13.",
+      "question": "Which word does not follow the silent 'E' rule?",
+      "options": [
+        {
+          "text": "Side"
+        },
+        {
+          "text": "Kite"
+        },
+        {
+          "text": "Hide"
+        },
+        {
+          "text": "See"
+        }
+      ],
+      "correct": 3,
+      "explanation": "In the word 'See,' there is no silent 'E' rule at play. The double 'E' creates a long 'E' sound, and both 'E's are pronounced. This is different from words like 'side' or 'kite' where the 'e' is silent."
+    },
+    {
+      "questionNo": "Q14.",
+      "question": "Choose the correct spelling:",
+      "options": [
+        {
+          "text": "Nit"
+        },
+        {
+          "text": "Nite"
+        },
+        {
+          "text": "Knit"
+        },
+        {
+          "text": "Knite"
+        }
+      ],
+      "correct": 2,
+      "secondImg":"./images/18.png",
+      "explanation": "'Knit' is the correct spelling. It has a silent 'K' at the beginning. 'Nit' is a different word, 'nite' is an informal spelling of 'night,' and 'knite' is not a word."
+    },
+    {
+      "questionNo": "Q15.",
+      "question": "Look at the image and choose the correct word:",
+      "options": [
+        {
+          "text": "Bus"
+        },
+        {
+          "text": "Aeroplane"
+        },
+        {
+          "text": "Car"
+        },
+        {
+          "text": "Truck"
+        }
+      ],
+      "correct": 3,
+      "secondImg":"./images/19.png",
+      "explanation": "This image is of a 'Truck.' It is a vehicle that carries heavy objects from one place to another."
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "Look at the image and choose the correct sentence:",
+      "options": [
+        {
+          "text": "A girl is playing with a kitten."
+        },
+        {
+          "text": "A girl is playing in the park."
+        },
+        {
+          "text": "A girl is swimming."
+        }
+      ],
+      "correct": 0,
+      "secondImg":"./images/20.png",
+      "explanation": "The image shows a girl playing with a kitten. The other options do not involve every object given in the image."
+    }
+  ]
+  

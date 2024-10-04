@@ -1,0 +1,79 @@
+[
+  {
+    "questionNo": "Q17.",
+    "question": "Which word has a silent 'E'?",
+    
+    "optionsImages": [
+      "./images/option/1.jpg",
+      "./images/option/2.jpg",
+      "./images/option/3.jpg",
+      "./images/option/4.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/elephant.mp3",
+      "./sound/dog.mp3",
+      "./sound/bike.mp3",
+      "./sound/fish.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Choose the word where 'K' is silent:",
+    
+    "optionsImages": [
+      "./images/option/5.jpg",
+      "./images/option/6.jpg",
+      "./images/option/7.jpg",
+      "./images/option/8.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/king.mp3",
+      "./sound/knee.mp3",
+      "./sound/kite.mp3",
+      "./sound/key.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word does NOT have a silent 'E'?",
+    
+    "optionsImages": [
+      "./images/option/9.jpg",
+      "./images/option/10.jpg",
+      "./images/option/11.jpg",
+      "./images/option/12.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/cake.mp3",
+      "./sound/like.mp3",
+      "./sound/time.mp3",
+      "./sound/bed.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which word has a silent 'K'?",
+    
+    "optionsImages": [
+      "./images/option/13.jpg",
+      "./images/option/14.jpg",
+      "./images/option/15.jpg",
+      "./images/option/16.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/kick.mp3",
+      "./sound/know.mp3",
+      "./sound/keep.mp3",
+      "./sound/kid.mp3"
+    ]
+  }
+ 
+ 
+
+      
+  ]
+  
